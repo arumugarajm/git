@@ -40,8 +40,12 @@ git add --all or git add . or git add -A -> To add all the files to track. <br>
 git rm --cached **file_name** -> To make the normal file, i.e, not staging the file. <br>
 git commit -m "write here what changes you made" -> after init, add store the file in local repo. here m stands for message. <br>
 
-git log ->To view the history of commits for a repository. <br>
+git log ->To view the history of commits for a repository. It gives the commit id.<br>
 git log --oneline -> To only see the changes. <br>
+
+git reset **commit_id** -> reset the commit. git log will give the commit id. This is soft reset. We change head position of the commit id.<br>
+git reset soft/hard **commit_id** -> hard is not recommended because it delete data/file which we crearted<br>
+git revert **commit_id** -> To delete the particular commit id <br>
 
 git command -help ->See all the available options for the specific command. <br>
 git help --all ->See all possible commands. <br>
