@@ -23,6 +23,7 @@
 
 ### Git workflow
 ![](arumugarajm/Images/git.jpg)
+<src = "arumugarajm/Images/git.jpg">
 
 
 git --version -> check the version. <br>
