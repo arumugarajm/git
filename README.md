@@ -1,4 +1,6 @@
 # creating this readme file for git 
+#Basics:
+-Git is a version control system (VCS)
 git --version -> check the version. <br>
 mkdir **file name** ->makes a new directory. <br>
 cd **directory** ->changes the current working directory. <br>
