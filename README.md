@@ -22,7 +22,7 @@
 - Reliable
 
 ### Git workflow
-![](Images/git.jpg)
+![](arumugarajm/Images/git.jpg)
 
 
 git --version -> check the version. <br>
