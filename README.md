@@ -23,7 +23,7 @@
 
 ### Git workflow
 
-[img](https://github.com/arumugarajm/arumugarajm/tree/main/Images/gittt.jpg)">]
+[img](https://github.com/arumugarajm/arumugarajm/tree/main/Images/gittt.jpg)
 
 
 git --version -> check the version. <br>
