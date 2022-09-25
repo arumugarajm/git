@@ -1,6 +1,28 @@
 # creating this readme file for git 
 ### Basics: <br>
 - Git is a version control system (VCS) <br>
+- Git helps you keep track of code changes.
+- Git is used to collaborate on code.
+### Types of VCS:
+- Local VCS
+- Centralized VCS
+- Distributed VCS
+
+### VCS Tools:
+- Git
+- SVN
+- TFS
+- Bazaar, etc.
+### Features 
+- Works on a distibuted system
+- compatible with all OS
+- Allow for non-linear development
+- Branching
+- Fast and flash
+- Reliable
+
+### Git workflow
+Images/git.jfif
 
 
 git --version -> check the version. <br>
