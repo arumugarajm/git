@@ -28,7 +28,7 @@
 
 git --version -> check the version. <br>
 git config --global user.name "give_name_here" -> To set who is commit the change <br>
-git config --global user.email "mail_id" -> give maild. we can use without global to represent particular repo<b>
+git config --global user.email "mail_id" -> give maild. we can use without global to represent particular repo<br>
 mkdir **file name** ->makes a new directory. <br>
 cd **directory** ->changes the current working directory. <br>
 git clone **url_of_github** -> clone remote repo to our local system. <br>
