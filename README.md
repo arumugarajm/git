@@ -22,7 +22,7 @@
 - Reliable
 
 ### Git workflow
-![](arumugarajm/Images/git.jpg)
+![](https://github.com/arumugarajm/arumugarajm/tree/main/Images/git.jpg)
 [img <src = "arumugarajm/Images/git.jpg">]
 
 
