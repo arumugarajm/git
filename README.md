@@ -57,6 +57,7 @@ git switch **branch_name** ->To swithch the branch. <br>
 
 git merge **branch_name** -> To merge branche. <br>
 git merge **current_branch** **new_branch_to_merge** ->merges the specified branch into the currently active branch<br>
+git branch -d **branch_name** -> To delete a branch<br>
 
 git remote add origin **url_of_github_repository(remote)** ->manually add the remote repo. <br>
 git remote -v -> To check the reomote repos. <br>
@@ -65,4 +66,13 @@ git pull origin<br>
 git push origin **branch_name** ->Push a Branch to GitHub. <br>
 
 git push origin -> Push the changed file to github/remote repo .<br>
+
+
+git rebase **branch1** **branch2** ->combined sequences of commit to a new base commit<br>
+git cherry-pick **commit_id** ->specific commit pick<br>
+git stash ->takes your uncommitted changes (both staged and unstaged), saves them away for later use, and then reverts them from your working copy<br>
+git stash pop <br>
+git stash list<br>
+
+git squash <br>
 
