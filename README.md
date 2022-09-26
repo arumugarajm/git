@@ -56,6 +56,7 @@ git checkout -b **branch_name** -> To create and swith to that new created bracn
 git switch **branch_name** ->To swithch the branch. <br>
 
 git merge **branch_name** -> To merge branche. <br>
+git merge **current_branch** **new_branch_to_merge** ->merges the specified branch into the currently active branch<br>
 
 git remote add origin **url_of_github_repository(remote)** ->manually add the remote repo. <br>
 git remote -v -> To check the reomote repos. <br>
